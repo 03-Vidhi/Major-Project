@@ -48,6 +48,11 @@ All Hardware are present
 
 ## Till now
 Raspberry pi have OS(Linux) and Node.js
+
+Have done Two PPT in college,
+synopsis is completed, 
+Thesis not started yet, 
+Research Paper need to start.
  
 ### Need to setup and integrate all the Hardware with our code.
 
